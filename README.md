@@ -1,3 +1,5 @@
+Data Analyst with a passion for transforming data into presentations that are digestible and easy to understand for all stakeholders
+
 # [Google Analytics Case Study](https://drive.google.com/file/d/1tZYKD6RjEmMmeYyVefNmkPDfx0Ao9UPj/view?usp=share_link)
 + This case study utilized R to clean, analyze, and visualize data for a fictional bike sharing company called "Cyclistic"
 + Insights from the analysis were used to make recommendations of how to convert casual riders into membership subscribers
