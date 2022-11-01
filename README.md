@@ -11,7 +11,7 @@
 + A study of how a Division I Volleyball competitive season impacts jumping performance in collegiate athletes
 + Microsoft Excel and SPSS were used to clean, analyze, and visualize data
 
-# Contacts
+# Contact Information
 + [Email](jp26238@georgiasouthern.edu)
 + [LinkedIn](https://www.linkedin.com/in/joshua-pascal-94914992/)
 + [Twitter](https://twitter.com/jpascalms?s=21&t=alH7_RF8Aa9hXBOdFNeDbg)
