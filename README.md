@@ -19,3 +19,4 @@ Data Analyst with a passion for transforming data into presentations that are di
 ![](https://github.com/JPascal95/JPascal95.github.io/blob/main/Images/thesis%20volleyball%20image.jpeg)
 
 # [LinkedIn](https://www.linkedin.com/in/joshua-pascal-94914992/)
+
