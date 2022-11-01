@@ -1,11 +1,11 @@
 # Joshua Pascal's Portfolio
 Data Analyst with a passion for transforming data into presentations that are digestible and easy to understand for all stakeholders
 
-# Google Analytics Case Study
+# [Google Analytics Case Study](https://drive.google.com/file/d/1tZYKD6RjEmMmeYyVefNmkPDfx0Ao9UPj/view?usp=share_link)
 + This case study utilized R to clean, analyze, and visualize data for a fictional bike sharing company called "Cyclistic"
 + Insights from the analysis were used to make recommendations of how to convert casual riders into membership subscribers
 
-# Public Tableau
+# [Public Tableau](https://public.tableau.com/app/profile/joshua.pascal)
 + This link includes various data visualization projects using Tableau
 
 # [Master's Thesis](https://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=3330&context=etd)
