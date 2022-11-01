@@ -13,3 +13,5 @@
 
 # [LinkedIn](https://www.linkedin.com/in/joshua-pascal-94914992/)
 
+# [Twitter](https://twitter.com/jpascalms?s=21&t=alH7_RF8Aa9hXBOdFNeDbg)
+
