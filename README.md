@@ -9,7 +9,7 @@
 
 # [SQL Project](https://github.com/JPascal95/CBB-Project/blob/main/README.md)
 + This study uses SQL to examine college basketball data from 2013 - 2019
-+ The goal is to predict which teams are the most likely to reach the Final 4 of the NCAA Basketbakll Tournament
++ The goal is to predict which teams are the most likely to reach the Final 4 of the NCAA Basketball Tournament
 
 # [Master's Thesis](https://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=3330&context=etd)
 + A study of how a Division I Volleyball competitive season impacts jumping performance in collegiate athletes
