@@ -7,7 +7,7 @@
 # [Public Tableau](https://public.tableau.com/app/profile/joshua.pascal)
 + This link includes various data visualization projects using Tableau
 
-# [SQL Project](https://github.com/JPascal95/CBB-Project/blob/main/README.md)
+# [SQL Project #1](https://github.com/JPascal95/CBB-Project/blob/main/README.md)
 + This study uses SQL to examine college basketball data from 2013 - 2019
 + The goal is to predict which teams are the most likely to reach the Final 4 of the NCAA Basketball Tournament
 
