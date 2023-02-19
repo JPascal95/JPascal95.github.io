@@ -12,7 +12,7 @@
 + This study uses SQL to evaluate data on donation rates and donor information for a fictional charity name "Education for All" 
 + The goal is to increase the number of donations, donation frequency, and the value of donations
 
-# [Excel Project](https://docs.google.com/spreadsheets/d/1z7GD_i1Q_f3j6KVG7tu2s0Nfn5I8rpoE/edit?usp=sharing&ouid=103938360192872290479&rtpof=true&sd=true](https://drive.google.com/file/d/18I5hWIQSJmz2rpxYvDFjiWhC1vj-n7n3/view?usp=sharing)
+# [Excel Project]([https://docs.google.com/spreadsheets/d/1z7GD_i1Q_f3j6KVG7tu2s0Nfn5I8rpoE/edit?usp=sharing&ouid=103938360192872290479&rtpof=true&sd=true](https://drive.google.com/file/d/18I5hWIQSJmz2rpxYvDFjiWhC1vj-n7n3/view?usp=sharing](https://docs.google.com/spreadsheets/d/1z7GD_i1Q_f3j6KVG7tu2s0Nfn5I8rpoE/edit?usp=share_link&ouid=103938360192872290479&rtpof=true&sd=true)
 + This project uses Microsoft Excel to analyze a bike purchasing dataset
 + The goal is to identify factors that may indicate if someone will buy a bike and market to those who fit these identifiers
 
