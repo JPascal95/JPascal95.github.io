@@ -21,12 +21,12 @@
 # [Public Tableau](https://public.tableau.com/app/profile/joshua.pascal)
 + This link includes various data visualization projects using Tableau
 
- (_layouts/default.html)
-
 # [Master's Thesis](https://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=3330&context=etd)
 + A study of how a Division I Volleyball competitive season impacts jumping performance in collegiate athletes
 + Microsoft Excel and SPSS were used to clean, analyze, and visualize data
 
+ (_layouts/default.html)
+ 
 # Contact Information
 + [Email](jp26238@georgiasouthern.edu)
 + [LinkedIn](https://www.linkedin.com/in/joshua-pascal-94914992/)
